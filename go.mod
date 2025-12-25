@@ -28,7 +28,7 @@ require (
 	github.com/prometheus/common v0.39.0
 	github.com/prometheus/procfs v0.8.0
 	github.com/prometheus/prometheus v0.42.0
-	github.com/sirupsen/logrus v1.8.1
+	github.com/sirupsen/logrus v1.8.3
 	github.com/slack-go/slack v0.11.3
 	github.com/stretchr/testify v1.9.0
 	github.com/xhit/go-str2duration/v2 v2.0.0
