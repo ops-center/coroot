@@ -1,6 +1,6 @@
 module github.com/coroot/coroot
 
-go 1.21
+go 1.24
 
 require (
 	github.com/ClickHouse/ch-go v0.61.5
@@ -18,7 +18,7 @@ require (
 	github.com/grafana/pyroscope-go/godeltaprof v0.1.6
 	github.com/hako/durafmt v0.0.0-20210608085754-5c1018a4e16b
 	github.com/jpillora/backoff v1.0.0
-	github.com/klauspost/compress v1.17.7
+	github.com/klauspost/compress v1.18.7
 	github.com/lib/pq v1.10.7
 	github.com/matoous/go-nanoid v1.5.0
 	github.com/mattn/go-sqlite3 v1.14.15
